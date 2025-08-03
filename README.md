@@ -14,11 +14,10 @@ View Project here--https://projectbyakash.netlify.app/
 - ⭐ Rate and review orders
 - 🧠 Personalized food suggestions
 ## 🛠️ Tech Stack
-# ScreenLayouts
-<img width="1897" height="929" alt="Screenshot 2025-08-03 111937" src="https://github.com/user-attachments/assets/c9385bd7-385d-4d50-8098-a2e3158d28cb" />
-<img width="1893" height="928" alt="Screenshot 2025-08-03 112028" src="https://github.com/user-attachments/assets/7c18d14b-ef95-4873-a3f6-71031e078960" />
-<img width="1890" height="920" alt="Screenshot 2025-08-03 112232" src="https://github.com/user-attachments/assets/237e0882-ed3b-4728-8ddb-5b81d917f15b" />
-
+# ScreenLayouts 
+<img width="1895" height="925" alt="Screenshot 2025-08-03 135753" src="https://github.com/user-attachments/assets/829342a2-ad96-4405-88b9-6330b09650f0" />
+<img width="1897" height="917" alt="Screenshot 2025-08-03 135824" src="https://github.com/user-attachments/assets/dbf4d8e6-d845-49c5-9d9d-f44e8a76f182" />
+<img width="1888" height="921" alt="Screenshot 2025-08-03 135858" src="https://github.com/user-attachments/assets/032727cb-70b8-42b3-9cf3-23745d5fb08d" />
 
 **Frontend:**
 - React.js / Vue.js / Angular  
