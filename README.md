@@ -14,6 +14,9 @@ An online platform that allows users to browse restaurant menus, place food orde
 - ⭐ Rate and review orders
 - 🧠 Personalized food suggestions
 ## 🛠️ Tech Stack
+# screenshots
+<img width="1897" height="929" alt="Screenshot 2025-08-03 111937" src="https://github.com/user-attachments/assets/c9385bd7-385d-4d50-8098-a2e3158d28cb" />
+
 
 **Frontend:**
 - React.js / Vue.js / Angular  
